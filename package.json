@@ -1,0 +1,20 @@
+{
+  "name": "read_csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "fast-csv": "^2.4.0",
+    "pg": "^6.2.2",
+    "pg-copy-streams": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samrat mishra",
+  "license": "ISC"
+}
